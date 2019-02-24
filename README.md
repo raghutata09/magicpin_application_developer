@@ -10,3 +10,4 @@ I have written the script in Python. There are 3 funcions:-
 3) pass_cannot_contain.
 
 These are the functions that were instructed to apply in our assignment. The user has to input comma seperated values in these values first the spaces are stripped and then passed into all the functions and gives the output accordingly.
+Note:- Since there was no mention about spaces that come in between the password string, so I have not stripped it and counted it as a string. 
