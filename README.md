@@ -1,5 +1,7 @@
 # magicpin_application_developer
 Assignment for first round
+Name- Tata Naga Raghunandan
+Enrollment Number- 9915103199
 
 
 I have written the script in Python. There are 3 funcions min_and_max_length, pass_atleast_one_character, pass_cannot_contain.
